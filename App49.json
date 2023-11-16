@@ -1,6 +1,6 @@
 {
-    "apiUrl" : "com.lexvonta.lexmoviesshow",
-    "pushUpdate" : "off",
-    "newPackage" : "",
+    "apiUrl" : "https://cinemart.uk/api/",
+    "pushUpdate" : "on",
+    "newPackage" : "com.lexvonta.lexmoviesshow",
     "NetworkAds" : "applovin"
 }
